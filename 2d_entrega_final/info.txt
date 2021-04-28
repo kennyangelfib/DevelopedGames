@@ -1,0 +1,52 @@
+Integrantes del grupo:
+    Tanvir Hossain
+    Kenny Angel Alejandro Poma
+    
+
+Funcionalidades implementadas
+1) 3 niveles, cada uno con 3 pantallas, con una dificultad gradual
+2) 3 tipos de bricks: 
+    - primer tipo: hay de varios colores, si se toca entonces se destruye 
+    - segundo tipo: se destruye al tocar dos veces
+    - tercer tipos: es mas resistente, al tocar se convierte en el segundo tipo
+3) mecanica de puntos:
+    brick: 10 puntos, dolar: 100 puntos, dinero: 200 puntos, uvas: 500 puntos, diamante: 1000 puntos
+4) mecanica de la clave que permite pasar de una pantalla de un nivel a la siguiente
+5) Estructura basica de 4 pantallas: menu principal, play, instructions, credits
+6) Alarma que provoca la aparicion de un vigilante que persigue al jugador 
+7) Interactividad de todas las entidades
+    - diferentes tipos de bonus: grey, green, blue, pink, (funciones de las monedas del color yellow y red no estan implementadas)
+    - diferentes tipos de palas del jugador: simple, doble, iman (al inicio funciona un poco mal pero luego funciona bien)
+    - interactividad con una pelota 
+    - policia o vigilante
+8) mecanica de scrolling
+8) teclas para saltar contenido:
+    - tecla +: para ir a la pantalla superior de la actual
+    - tecla -: para ir a la pantalla inferior de la actual
+    - tecla n: para ir al nivel superior del actual
+    - tecla b: para ir al nivel inferior del actual
+    - tecla d: pasa de pala simple a doble, o de doble a simple
+    - tecla k: si la pelota toca al limite inferior de la primer pantalla entonces no resta vida del jugador; la pelota sigue su direccion
+    - tecla l: para quitar vidas
+    - tecla g: del play pasa al gameover
+10) barra de puntuacion
+11) Efectos de sonido y musica con la llibreria irrKlang.dll que permite reproducir pistas de audio
+
+En la parte adicional teniamos pensado implementar algun tipo de boss pero no se ha podido implementar por falta de tiempo.  
+
+
+Instrucciones del juego
+Al inicio tenemos la pantalla principal del juego que consta de un menu navegable mediante las teclas "p" para jugar, 
+"i" para observar las instrucciones del juego, "c" para ver los creditos, "ESC" para salir y "b" para volver de las 
+pantallas de las instrucciones y creditos, que llevara al menu principal.  
+Una vez estamos dentro del juego (previamente hemos tenido que seleccionar la tecla "p") se muestra la primera pantalla
+del primer nivel en que se destacan los componentes: bloques, pelota, llave, bonus y el propio jugador (pala + ojos). 
+Para iniciar el juego debemos pulsar la tecla "space", que lanza la pelota para destruir los bloques y obtener 
+la llave para pasar a las pantallas superiores. Si queremos pasar a la pantalla superior sin haber obtenido la llave,
+podemos hacer con la tecla "+" o regresar a dicha pantalla con la tecla "-". En la ultima pantalla el jugador tiene la 
+posiblidad de robar los dineros y salir del banco, lo que implica pasar el nivel siguiente. Sin embargo, si se activa 
+la alarma entonces aparecera un  vigilante para perseguirle y restarle una vida, que implica iniciar el juego desde la 
+pantalla inicial del dicho nivel. 
+En el juego el jugador dispone de 4 vidas para superar las fases. Si estamos en la pantalla inicial y la pelota caye en 
+la superficie inferior de los limites de los bordes entonces se le resta una vida. Si se quiere ignorar este efecto lo
+podemos hacer con la tecla "k".  
