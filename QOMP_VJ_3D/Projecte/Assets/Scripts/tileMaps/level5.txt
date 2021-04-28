@@ -1,0 +1,18 @@
+TILEMAP
+88
+15
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww                                  ww
+wwww     wwwwww    wwwwwww     wwwwww  wwwwwwwwwwwww                                  ww
+www                                                                                   ww
+www                                                                                   ww
+www                                                                                   ww
+www                                                w                  w                 
+www
+www                                                                                   ww
+www                                                                                   ww
+wwwww                         www          ww                                         ww
+wwwwwww                      wwwwww        www    ww                                  ww
+wwwwwwwww  wwwwwwwwww   wwwwwwwwwwwwwwww wwwwww  www                                  ww
+wwwwwwwww  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww                                  ww
+wwwwwwwww  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww

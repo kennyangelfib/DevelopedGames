@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AuxiliarCamera
+  - MyPlayer
+  - PlayerParticleSystem
+  - SnakeBody
+  - Snake
+  - RailHorizontal
+  - RailVertical
+  - DotWall1
+  - DotWall2
+  - RoughWall
+  - Wall
+  - TopRightBlocks
+  - BottomBlocks
+  - Key
+  - Lock
+  - MylevelsPlayer
+  - GeneralCamaraView
+  - CamerasController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

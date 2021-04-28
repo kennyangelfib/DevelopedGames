@@ -1,0 +1,46 @@
+TILEMAP
+88
+43
+wwwwwwww   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww  wwwwwwwwww
+wwwwwwww   wwwwwwww                                wwwwwwwwwwwwwwwwwwwwwwww    wwwwwwwww
+wwwwwwww   wwwwwwww                                wwwwwwwwwwwwwww                 wwwww
+wwwwww       wwwwww                                wwwwwwww                         wwww
+wwwwww       wwwwww                                wwwwwww                          wwww
+wwww           wwww                                wwwww                             www
+wwww           wwww                                wwww                               ww
+ww               ww                                wwww                               ww
+ww               ww                                www                                ww
+w                 w                                wwww                               ww
+w                 w                                wwwww                             www
+ww               ww                                wwwwww                  wwwwwwwwwwwww
+wwww           wwww                                wwwwwwww        wwwwwwwwwwwwwwwwwwwww
+wwww           wwww               w                wwwwwwwww      wwwwwwwwwwwwwwwwwwwwww
+wwwwwwww   wwwwwwwwwwwwwwwwwww    wwwwwwwwwww    wwwwwwwwwww    wwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwww   wwwwwwww               w                  wpr                           wwwwww
+      ww   wwwwwwww               w                  wpr                            wwwww
+      ww   wwwwwwww               w                  wpr                              www
+      ww   wwwwwwww               w                  wpr                                w
+      ww   wwwwwwww     wwww      w                  wpr                                w
+      ww   wwwwwwww     w  w      w                  wpr                                w
+      ww   wwwwwwww     w  w      w                  wpr                                w
+      ww   wwwwwwww     w  w      w                  wpr                                w
+      ww   wwwwwwww     wwww      w                  wpr                                w
+      ww                          w                  wpr                                w
+      ww                          w                  wpr                                w
+      ww                          w                  wpr                                w
+      wwwwwwwwwwwww               w                  wpr w                              w
+      wwwwwwwwwwwwwwwwwwwwwwwwwwwww         wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww     wwwww
+                                  w                  wwwwwwwwwwwwwwwww             wwwww
+                                  w                  wwwwww          w              wwww
+                                  w                  www             w               www
+                                  w                                  w                ww
+                                  w                                  w                ww
+                                  w                                                   ww
+                                  w                                                  www
+                                  w                                            wwwwwwwww
+                                  w                  wwwwww                wwwwwwwwwwwww
+                                  w                  wwwwwwww        wwwwwwwwwwwwwwwwwww
+                                  w                  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                                  w                  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                                  w                  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+                                  wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
